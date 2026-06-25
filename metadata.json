@@ -1,0 +1,6 @@
+{
+  "name": "Accelerator Digital Twin Platform",
+  "description": "Enterprise-grade digital twin platform for scientific accelerator infrastructure featuring real-time telemetry, engineering workflows, requirements traceability, incident response, DevOps monitoring, AI-assisted diagnostics, and cloud-native full-stack architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
